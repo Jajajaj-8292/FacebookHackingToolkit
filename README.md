@@ -1,0 +1,1 @@
+[![Smoke test "python" build](https://github.com/devcontainers/images/actions/workflows/smoke-python.yaml/badge.svg?event=check_run)](https://github.com/devcontainers/images/actions/workflows/smoke-python.yaml)
